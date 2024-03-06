@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @marcos-arduino
-- 👀 I’m interested in - Python
-- 🌱 I’m currently learning - HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @marcos.arduino (instagram)
 
