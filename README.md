@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @marcos-arduino
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - @marcos.arduino (instagram)
+## 👋 About Me
 
-<!---
-marcos-arduino/marcos-arduino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Marcos Arduino, Information Systems student.
+
+I work mainly with **Python**, **web technologies** (HTML, CSS, JavaScript, PHP, React), and **Arduino**. I also have experience with **databases** and **basic data analysis**.
+
+Currently involved in tech projects with real-world impact and always looking to learn, collaborate, and grow.
+
+---
+
+📫 Contact  
+- Email: arduinomarcos1@gmail.com  
+- LinkedIn: [linkedin.com/in/marcos-arduino](https://linkedin.com/in/marcos-arduino)  
+- GitHub: [github.com/marcos-arduino](https://github.com/marcos-arduino)
