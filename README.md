@@ -12,3 +12,4 @@ Currently involved in tech projects with real-world impact and always looking to
 - Email: arduinomarcos1@gmail.com  
 - LinkedIn: [linkedin.com/in/marcos-arduino](https://linkedin.com/in/marcos-arduino)  
 - GitHub: [github.com/marcos-arduino](https://github.com/marcos-arduino)
+- Instagram: [@marcos.arduino](https://www.instagram.com/marcos.arduino/)
