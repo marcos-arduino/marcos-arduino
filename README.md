@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm Marcos Arduino, Information Systems student.
+I'm Marcos Arduino, IT student.
 
 I work mainly with **Python**, **web technologies** (HTML, CSS, JavaScript, PHP, React), and **Arduino**. I also have experience with **databases** and **basic data analysis**.
 
